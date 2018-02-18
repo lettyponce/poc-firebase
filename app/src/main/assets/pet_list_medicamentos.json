@@ -1,0 +1,24 @@
+{
+  "statusCode": 200,
+  "message": "Dados retornados com sucesso",
+  "medicamentos":[
+    {
+      "id": "1",
+      "medicamento":"Floral de ansidade",
+      "data":"12/12/2017",
+      "horario":"10:00",
+      "observacao":"10 gotas",
+      "status": 0,
+      "lembrete": 1
+    },
+    {
+      "id": "2",
+      "medicamento":"Vermifugo",
+      "data":"12/12/2017",
+      "horario":"10:00",
+      "observacao":"10 gotas",
+      "status": 0,
+      "lembrete": 1
+    }
+  ]
+}

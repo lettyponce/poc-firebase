@@ -1,0 +1,30 @@
+{
+  "statusCode": 200,
+  "message": "Dados retornados com sucesso",
+  "pets":[
+      {
+        "id": "1",
+        "nome":"Morena",
+        "raca":"Viralata",
+        "sexo":"Femea",
+        "dataNasc":"12/10/2013",
+        "proprietario":"Letícia"
+      },
+      {
+        "id": "2",
+        "nome":"Mel",
+        "raca":"Viralata",
+        "sexo":"Femea",
+        "dataNasc":"07/03/2015",
+        "proprietario":"Max"
+      },
+      {
+        "id": "3",
+        "nome":"Tancinha",
+        "raca":"Shitsu",
+        "sexo":"Femea",
+        "dataNasc":"20/11/2015",
+        "proprietario":"Max"
+      }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "statusCode": 404,
+  "message": "Não existe Pets disponíveis",
+  "data":{
+    "pets": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "message": "Dados retornados com sucesso",
+  "vacinas":[
+    {
+      "id": "1",
+      "dataAplicacao": "10/01/2010",
+      "vacina": "Raiva",
+      "dataProxAplicacao":"10/01/2011",
+      "localAplicacao":"Clinica Nova Europa",
+      "medico":"Silvio",
+      "observacao":"NDA"
+    }
+  ]
+}

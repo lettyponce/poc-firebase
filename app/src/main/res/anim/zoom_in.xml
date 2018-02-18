@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true">
+
+    <!--
+    For zoom use <scale> tag.
+    Use pivotX=”50%” and pivotY=”50%” to perform zoom from the center of the element.
+    Also you need to use fromXScale, fromYScale attributes which defines scaling of the object.
+    Keep these value lesser than toXScale, toYScale
+    -->
+
+    <scale
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="1000"
+        android:fromXScale="1"
+        android:fromYScale="1"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="2"
+        android:toYScale="2">
+    </scale>
+
+</set>

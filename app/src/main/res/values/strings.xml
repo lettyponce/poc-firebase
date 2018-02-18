@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Poc1</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_friendly_chat">FriendlyChatActivity</string>
+    <string name="sign_out">LOG OUT</string>
+</resources>
